@@ -1,0 +1,231 @@
+.fs-heading{
+    color: rgb(113, 40, 181);
+    font-family: "Roboto";
+    font-size: 25px;
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+.follow-sec{
+    text-align: center;
+}
+.follow-icon{
+    background-color: antiquewhite;
+    padding:20px;
+    margin: 10px;
+    border-radius: 30px;
+    
+}
+.thank-button{
+    background-color: rgb(224, 151, 61);
+    color: white;
+    border-radius: 10px;
+    border-width: 0px;
+    height: 40px;
+    width: 120px;
+}
+.thank-main-heading{
+    font-family: "Roboto";
+    font-size: 35px;
+    color: rgb(108, 47, 165);
+    font-weight: bold;
+    
+}
+.thank-paragraph{
+    font-family: "Roboto";
+    font-size: 20px;
+
+}
+
+.thank-image{
+    height: 270px;
+    width: 230px;
+   
+}
+.thank-bg-container{
+    background-color: rgb(245, 234, 222);
+    height: 70vh;
+    background-size: cover;
+    
+}
+.dp_image-1{
+    height: 50px;
+    width: 80px;
+    margin-right: 20px;
+}
+.dp_button{
+    font-family: "Roboto";
+    background-color: rgb(222, 148, 57);
+    color: white;
+    font-size: 18px;
+    width: 130px;
+    height: 50px;
+    border-radius: 10px;
+    border-width: 0px;
+
+}
+.dp_paragraph{
+    font-family: "Roboto";
+    font-size: 20px;
+    
+}
+.dp_heading{
+    font-size: 45px;
+    font-family: "Roboto";
+    font-weight: bold;
+    color: rgb(95, 33, 154);
+}
+.image-1{
+    height: 300px;
+
+}
+.dp_image{
+    text-align: center;
+}
+.hf_heading{
+    color:rgb(115, 55, 171);
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight: bold;
+}
+.hf_paragraph{
+    font-family: "Roboto";
+    font-size: 18px;
+    
+
+}
+.hf_card{
+    text-align: center;
+}
+.hf_button{
+    background-color: rgb(210, 143, 17);
+    color: white;
+    border-radius: 10px;
+    width:120px;
+    border-width: 0px;
+    height: 35px;
+    font-size: 15px;
+
+
+}
+.ex_menu-card{
+    
+    border-radius:20px;
+    padding: 10px;
+    margin: 10px;
+}
+.ex_card_heading{
+    color: rgb(157, 91, 219);
+    font-family: "Robotp";
+    font-size: 20px;
+  
+
+}
+.ex_menu_link{
+    color: rgb(212, 164, 106);
+    font-family: "Roboto";
+    font-size: 15px;
+   
+
+
+}
+#view{
+    color: rgb(223, 180, 128);
+}
+.ex-main-heading{
+    color: rgb(120, 56, 180);
+    font-size: 30px;
+    font-weight: bold;
+    font-family: "Roboto";
+}
+
+.offers{
+    color: black;
+    font-weight: bold;
+}
+.wcu-card{
+    text-align: center;
+    border-style: solid;
+    border-radius:10px;
+    border-color: #e5eaf4;
+    border-width: 2px;
+   
+    
+}
+.wcu-heading-2{
+    font-size: 25px;
+    font-family: "Roboto";
+    color: black;
+    font-weight: bold;
+}
+.wcu-paragraph-2{
+    color: black;
+    font-family: "Roboto";
+    font-weight: 100;
+
+}
+.wcu-heading{
+    color:blueviolet;
+    font-family: "Roboto";
+    margin: 10px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.wcu-paragraph{
+    margin: 10px;
+    font-size: 18px;
+    font-family: "Roboto";
+}
+.text-center{
+    text-align: center;
+}
+.home-page-heading{
+    color:white;
+    font-family: "Roboto";
+    font-size: 35px;
+}
+.home-page-paragraph{
+    color: white;
+    font-family: "Roboto";
+    font-size: 20px;
+    
+}
+.home-page-button-1{
+    color: white;
+    font-family: "Roboto";
+    font-size: 15px;
+    background-color: rgb(197, 149, 58);
+    border-radius: 10px;
+    border-width: 0px;
+    width: 100px;
+    height: 40px;
+
+
+}
+.home-page-button-2{
+    color:white;
+    font-family: "Roboto";
+    font-size: 15px;
+    background-color: transparent;
+    border-radius: 10px;
+    border-width: 0px;
+    width: 100px;
+    height: 40px;
+    
+
+}
+.bg-container{
+    background-image: url("https://img.freepik.com/free-photo/mini-burgers-french-fries-spices-sauces-cocktails-side-view_141793-1815.jpg?w=900&t=st=1687172197~exp=1687172797~hmac=936538a82c2fbccba65a7391533c5658ae93d94e42fe16eb44dde69ee3ce87f2");
+    height: 100vh;
+    background-size:cover;
+}
+
+.logo{
+    height: 60px;
+    width:80px;
+}
+#nav-item{
+    color:black;
+    font-family: "Roboto";
+}
